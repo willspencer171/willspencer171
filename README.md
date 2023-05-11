@@ -1,10 +1,8 @@
-print("Hello! I'm Will")
-As a graduate of Biochemistry, I've decided it's time for a change
+## `print("hello", "I'm Will", sep=", ")`
+### Previously an avid biochemist, I'm now pursuing a career in data science/analytics
 
-I'm looking to learn how to create anything and everything that I can
+Software has always been a big part of my life, all the way from secondary school through to the final stages of my undergraduate study. Now, I get to put everything I've learned into making life easier for myself, as well as everyone around me.
 
-!!! Special interest in machine learning and data analysis !!!
+Stay a while, have a look around, let me know what you think!
 
-Would also like to learn how to analyse images
-
-Experience in R, Python, Visual Basic and learning HTML and CSS
+[LinkedIn](https://www.linkedin.com/in/willspencer171) || [Instagram](https://www.instagram.com/will_spencer171)
